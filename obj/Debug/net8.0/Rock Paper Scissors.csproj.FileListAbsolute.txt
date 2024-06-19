@@ -12,3 +12,4 @@ F:\C# Player's Guide Programs\Rock Paper Scissors\obj\Debug\net8.0\refint\Rock P
 F:\C# Player's Guide Programs\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.pdb
 F:\C# Player's Guide Programs\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.genruntimeconfig.cache
 F:\C# Player's Guide Programs\Rock Paper Scissors\obj\Debug\net8.0\ref\Rock Paper Scissors.dll
+F:\C# Player's Guide Programs\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.sourcelink.json

@@ -108,6 +108,15 @@
                             Console.ReadKey();
                             Console.Clear();
                         }
+
+            if (player1Wins == 5)
+            {
+                Console.WriteLine($"{player1Name}, you are the winner! Well done!");
+            }
+            else
+            {
+                Console.WriteLine($"{player2Name}, you are the winner! Well done!");
+            }
             
         }
     }
