@@ -16,7 +16,7 @@
         public void Run()
         {
             // GAME START
-
+            int maxScore = 5;
             ScoreKeeper Score = new ScoreKeeper();
 
             Console.WriteLine("----- ROCK, PAPER, SCISSORS -----\n");
@@ -85,7 +85,7 @@
                 }
             }
             
-                        while (player1Wins != 5 && player2Wins != 5)
+                        while (player1Wins != maxScore && player2Wins != maxScore)
                         {
                             PlayerChoice choice1 = Player1.GetChoice();
                             Console.Clear();
@@ -109,7 +109,7 @@
                             Console.Clear();
                         }
 
-            if (player1Wins == 5)
+            if (player1Wins == maxScore)
             {
                 Console.WriteLine($"{player1Name}, you are the winner! Well done!");
             }
