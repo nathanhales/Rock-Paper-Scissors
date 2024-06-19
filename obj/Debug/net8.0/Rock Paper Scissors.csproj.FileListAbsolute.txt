@@ -1,0 +1,14 @@
+F:\C# Player's Guide Programs\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Player's Guide Programs\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.AssemblyInfoInputs.cache
+F:\C# Player's Guide Programs\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.AssemblyInfo.cs
+F:\C# Player's Guide Programs\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+F:\C# Player's Guide Programs\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.exe
+F:\C# Player's Guide Programs\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.deps.json
+F:\C# Player's Guide Programs\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.runtimeconfig.json
+F:\C# Player's Guide Programs\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.dll
+F:\C# Player's Guide Programs\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.pdb
+F:\C# Player's Guide Programs\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.dll
+F:\C# Player's Guide Programs\Rock Paper Scissors\obj\Debug\net8.0\refint\Rock Paper Scissors.dll
+F:\C# Player's Guide Programs\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.pdb
+F:\C# Player's Guide Programs\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.genruntimeconfig.cache
+F:\C# Player's Guide Programs\Rock Paper Scissors\obj\Debug\net8.0\ref\Rock Paper Scissors.dll
